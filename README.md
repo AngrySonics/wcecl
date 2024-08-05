@@ -15,6 +15,7 @@ Use WCECL to run original Windows CE applications on desktop Windows.
 - ⚠️ The project is at an early stage of development. Only one application has been confirmed to work so far.
 - 💩 Contains bad code!
 - 🙂 Contributions are welcome!
+- This is a fork dedicated to releasing versions of WCECL from the Actions tab onto the Releases tab so they don't become lost media.
 
 Visit project [wiki](https://github.com/dz333n/wcecl/wiki) for details.
 
